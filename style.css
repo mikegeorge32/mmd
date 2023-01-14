@@ -1,6 +1,6 @@
 :root{
-    --mainclr:#239f85;
-    --secclr:#ff5d22;
+    --mainclr:#167c9693;
+    --secclr:#3f91a0a2;
     --third:#DFE4E0;
     --mainafterclr:hsl(167, 81%, 79%);
 }
@@ -29,7 +29,7 @@ html{
     z-index: 1000;
 }
 .header #logo{
-    width: 50px;
+    width: 70px;
 }
 .navbar a{
     color: white;
@@ -92,9 +92,9 @@ html{
 }
 .background-content{
     position: absolute;
-    top: 30%;
-    left: 50%;
-    width: 50%;
+    top: 10%;
+    left: 40%;
+    width: 40%;
     transform: translate(-80%);
 }
 .background-content h1{
